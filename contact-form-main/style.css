@@ -1,0 +1,117 @@
+body{
+    background-color: hsl(148, 38%, 91%);
+    display: flex;
+    justify-content: center;
+}
+
+.tag1{
+    background-color: #fff;
+    border-radius: 15px;
+    width: 500px;
+    margin: 90px;
+    padding: 10px;
+}
+
+.tag1 h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tag1 p{
+    margin: 10px;
+    width: 100px;
+}
+
+.tag1 input{
+    border-radius: 6px;
+    padding: 10px;
+    border-width: 1px;
+}
+
+.tag1 button{
+    background-color: hsl(169, 82%, 27%);
+    color: #fff;
+    border-radius: 5px;
+    border-width: 1px;
+    padding: 10px;
+    width: 500px;
+    margin: 30px 0px 20px auto;
+}
+
+.tag2{
+    display: block;
+    width: 100%;
+    /* font-size: 20px; */
+}
+
+.tag3{
+    display: inline-block;
+}
+
+.tag3 input{
+    margin: 0px 10px 0px 0px;
+    padding: 10px 30px;
+}
+
+.tag4{
+    display: inline-block;
+}
+
+.tag4 input{
+    padding: 10px 41px;
+}
+
+.tag5{
+    display: block;
+    width: 100%;
+}
+
+.tag5 p{
+    margin: 10px;
+}
+
+.tag5 input{
+    padding: 10%;
+    width: 79%;
+}
+
+.tag6 label{
+    margin: 20px;
+}
+
+.tag6 input{
+    margin: 30px 0px 0px 0px;
+}
+
+.tag7{
+    display: block;
+    width: 100%
+}
+
+.tag7 p{
+    margin: 10px 0px 10px 0px;
+    padding: 10px 0px 10px 0px;
+}
+
+.tag8{
+    width: 30%;
+    padding: 9px 100px 9px 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 1px;
+    display: inline;
+}
+
+.tag9{
+    margin: 10px 0px 0px 10px; 
+    width: 30%;
+    padding: 9px 111px 9px 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 1px;
+    display: inline;
+}
+
+
+.tag10 input{
+    padding: 10px 164px;
+}
